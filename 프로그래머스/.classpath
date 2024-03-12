@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="0/181936. 공배수"/>
+	<classpathentry kind="src" path="1/70128. 내적"/>
+	<classpathentry kind="src" path="unrated/120829. 각도기"/>
+	<classpathentry kind="src" path="unrated/120830. 양꼬치"/>
+	<classpathentry kind="src" path="unrated/181863. rny＿string"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
